@@ -37,8 +37,5 @@ coverage/
 .tox/
 
 # 임시 / 백업
-.git.old/
-.git.old2/
-.git.old3/
 *.bak
 *.tmp
